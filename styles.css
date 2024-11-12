@@ -1,9 +1,9 @@
 body {
-  background: gray;
+  background: #808080;
 }
 
 .card {
-  background: lightcoral;
+  background: #F08080;
   font-family: Outfit;
   text-align: center;
   width: 300px;
