@@ -1,0 +1,36 @@
+body {
+  background: gray;
+}
+
+.card {
+  background: lightcoral;
+  font-family: Outfit;
+  text-align: center;
+  width: 300px;
+  padding: 10px;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-size: 30px;
+  margin: 0;
+}
+
+h2 {
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+p {
+  text-align: justify;
+  font-size: 15px;
+  padding: 10px;
+}
+
+.sky_img {
+  height: 300px;
+  width: 300px;
+}
+ 
