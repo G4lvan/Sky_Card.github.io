@@ -3,14 +3,18 @@ body {
 }
 
 .card {
-  background: #F08080;
-  font-family: "Outfit", sans-serif;
+  background: #f08080;
+  font-family: Outfit;
   text-align: center;
   width: 300px;
   padding: 10px;
   margin: auto;
   margin-top: 10px;
   margin-bottom: 10px;
+  border-color: rgba(235, 86, 86, 0.805);
+  border-radius: 5px;
+  border-style: solid;
+  border-radius: 10px;
 }
 
 h1 {
@@ -27,10 +31,16 @@ p {
   text-align: justify;
   font-size: 15px;
   padding: 10px;
+  font-weight: 350;
 }
 
 .sky_img {
   height: 300px;
   width: 300px;
+  border-color: rgba(235, 86, 86, 0.805);
+  border-radius: 5px;
+  border-style: solid;
+  border-radius: 10px;
 }
+
  
