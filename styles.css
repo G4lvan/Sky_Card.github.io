@@ -4,7 +4,7 @@ body {
 
 .card {
   background: linear-gradient(#cc2b52, transparent);
-  font-family: Outfit;
+  font-family: "Outfit", sans-serif;
   text-align: center;
   width: 300px;
   padding: 10px;
