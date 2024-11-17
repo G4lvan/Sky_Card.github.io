@@ -4,7 +4,7 @@ body {
 
 .card {
   background: linear-gradient(#cc2b52, transparent);
-  font-family: "Outfit", sans-serif;
+  font-family: Outfit;
   text-align: center;
   width: 300px;
   padding: 10px;
@@ -15,17 +15,18 @@ body {
   text-align: center;
 }
 
-h1 {
+.card_title {
   font-size: 30px;
   margin: 0;
+  letter-spacing: 5px;
 }
 
-h2 {
+.card_sub_title {
   font-size: 20px;
   letter-spacing: 2px;
 }
 
-p {
+.card_content {
   text-align: justify;
   font-size: 15px;
   padding: 10px;
@@ -35,7 +36,7 @@ p {
 .sky_img {
   height: 200px;
   width: 200px;
-  background-image: url(Sky_the_pug.jpg);
+  background-image: url(../../../Imagenes/Sky_the_pug.jpg);
   background-position: center;
   background-size: contain;
   border-radius: 10px;
@@ -50,14 +51,15 @@ p {
   border-radius: 10px;
 }
 
-h3 {
+.instagram {
+  color: #fff;
+  padding-left: 100px;
+  text-decoration: none;
+}
+
+.img_title {
   color: #fff;
   text-align: center;
   padding-top: 80px;
-}
-
-span {
-  color: #fff;
-  padding-left: 100px;
 }
 
