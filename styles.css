@@ -35,7 +35,7 @@ p {
 .sky_img {
   height: 200px;
   width: 200px;
-  background-image: url(../../../Imagenes/Sky_the_pug.jpg);
+  background-image: url(Sky_the_pug.jpg);
   background-position: center;
   background-size: contain;
   border-radius: 10px;
