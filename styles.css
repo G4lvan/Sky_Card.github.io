@@ -1,20 +1,18 @@
 body {
-  background: #808080;
+  background-color: #8a1548;
 }
 
 .card {
-  background: #f08080;
+  background: linear-gradient(#cc2b52, transparent);
   font-family: Outfit;
   text-align: center;
   width: 300px;
   padding: 10px;
   margin: auto;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  border-color: rgba(235, 86, 86, 0.805);
-  border-radius: 5px;
-  border-style: solid;
+  border-bottom: 8px solid #cc2b52;
   border-radius: 10px;
+  box-shadow: 0 0 10px 0;
+  text-align: center;
 }
 
 h1 {
@@ -35,12 +33,31 @@ p {
 }
 
 .sky_img {
-  height: 300px;
-  width: 300px;
-  border-color: rgba(235, 86, 86, 0.805);
-  border-radius: 5px;
-  border-style: solid;
+  height: 200px;
+  width: 200px;
+  background-image: url(../../../Imagenes/Sky_the_pug.jpg);
+  background-position: center;
+  background-size: contain;
+  border-radius: 10px;
+  box-shadow: 0 0 10px 0;
+  margin: auto;
+}
+
+.img_opaco {
+  height: 200px;
+  width: 200px;
+  background-color: #0005;
   border-radius: 10px;
 }
 
- 
+h3 {
+  color: #fff;
+  text-align: center;
+  padding-top: 80px;
+}
+
+span {
+  color: #fff;
+  padding-left: 100px;
+}
+
